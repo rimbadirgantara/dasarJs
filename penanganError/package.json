@@ -1,0 +1,13 @@
+{
+  "name": "penangan_error",
+  "version": "1.0.0",
+  "description": "beriskan cara menangani error",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Rimba Dirgantara",
+  "license": "ISC"
+}
